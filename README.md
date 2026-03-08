@@ -1,3 +1,6 @@
+# Fork Note
+Created comfyui component
+
 # Palettize
 Palettize uses k-means to reduce the number of colors in an image. This script is specifically designed for use with [Retro Diffusion pixel art model](https://astropulse.gumroad.com/l/RetroDiffusionModel).
 
